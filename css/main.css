@@ -1,0 +1,37 @@
+body {
+	margin:0;
+	padding:0;
+	border:0;
+	outline:0;
+}
+
+#pagecontainer {
+	width:100%;
+	margin:0;
+	padding:0;
+	border:0;
+	outline:0;
+}
+
+#header {
+	width: 960px;
+	margin: 0 auto;
+}
+
+#pagecontentcontainer {
+	width: 960px;
+	margin: 0 auto;
+}
+
+#footer {
+	width: 960px;
+	margin: 0 auto;
+}
+
+@media only screen and (min-width: 482px) {
+
+}
+	
+@media only screen and (max-width:481px){
+
+}
